@@ -1,3 +1,26 @@
 body{
     padding-top: 1rem;
 }
+
+.hidden { 
+    display: none !important; 
+  }
+
+.btn-warning{
+    color: white;
+    border-color: #ffc107;
+    background-color: #ffc107;
+    margin-left: 0.3rem ;
+}
+
+.btn-warning:active{
+    color: white;
+}
+
+.fa-minus-circle{
+   color: red;
+}
+
+.fa-plus-circle{
+    color: green;
+ }
